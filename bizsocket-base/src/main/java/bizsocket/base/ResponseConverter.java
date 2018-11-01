@@ -2,6 +2,7 @@ package bizsocket.base;
 
 import bizsocket.tcp.Packet;
 import okio.ByteString;
+
 import java.lang.reflect.Type;
 
 /**
